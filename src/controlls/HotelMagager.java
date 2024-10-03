@@ -73,6 +73,7 @@ public class HotelMagager implements I_Collection {
             showInfor(hotelMap);
 
     }
+    // passed
 
     @Override
     public void delete() {  // Can id da co san trong file 
